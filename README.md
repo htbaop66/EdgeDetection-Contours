@@ -14,3 +14,6 @@
 邊緣檢測：檢測圖像中像素的值有突然改變的地方。
 
 輪廓檢測：檢測圖像中的物體邊界，也就像找出物體的邊界。
+以下範例圖：
+![image](https://user-images.githubusercontent.com/45446409/235055724-6e27a1e6-fecf-4d64-b747-e0609e3f781c.png)
+
